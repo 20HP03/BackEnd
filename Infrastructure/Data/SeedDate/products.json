@@ -1,0 +1,92 @@
+[
+  {
+    "Name": "The Fellowship of the Ring by J.R.R Tolkien",
+    "Description": "The first volume in J.R.R. Tolkien's epic adventure, where Frodo begins his journey to destroy the One Ring.",
+    "Price": 25,
+    "PictureUrl": "/images/products/The Fellowship of the Ring.jpg",
+    "Type": "Fantasy",
+    "BookPublisher": "HarperCollins",
+    "QuantityInStock": 50
+  },
+  {
+    "Name": "The Two Towers by J.R.R Tolkien",
+    "Description": "The second part of The Lord of the Rings, continuing Frodo's perilous journey and the growing battle for Middle-earth.",
+    "Price": 25,
+    "PictureUrl": "/images/products/The Two Towers.jpg",
+    "Type": "Fantasy",
+    "BookPublisher": "HarperCollins",
+    "QuantityInStock": 48
+  },
+  {
+    "Name": "The Return of the King by J.R.R Tolkien",
+    "Description": "The final volume of the trilogy, where the fate of Middle-earth is decided in a climactic battle.",
+    "Price": 25,
+    "PictureUrl": "/images/products/The Return of the King.jpg",
+    "Type": "Fantasy",
+    "BookPublisher": "HarperCollins",
+    "QuantityInStock": 45
+  },
+  {
+    "Name": "Harry Potter and the Philosopher's Stone",
+    "Description": "Harry discovers he is a wizard and attends Hogwarts School of Witchcraft and Wizardry.",
+    "Price": 20,
+    "PictureUrl": "/images/products/Harry Potter and the Philosopher's Stone.jpg",
+    "Type": "Fantasy",
+    "BookPublisher": "Bloomsbury",
+    "QuantityInStock": 60
+  },
+  {
+    "Name": "Harry Potter and the Chamber of Secrets",
+    "Description": "Harry returns to Hogwarts and uncovers the mystery behind the attacks on students.",
+    "Price": 20,
+    "PictureUrl": "/images/products/Harry Potter and the Chamber of Secrets.jpg",
+    "Type": "Mystery",
+    "BookPublisher": "Bloomsbury",
+    "QuantityInStock": 58
+  },
+  {
+    "Name": "Harry Potter and the Prisoner of Azkaban",
+    "Description": "Harry learns of Sirius Black, a dangerous escapee from Azkaban with ties to his past.",
+    "Price": 20,
+    "PictureUrl": "/images/products/Harry Potter and the Prisoner of Azkaban.jpg",
+    "Type": "Mystery",
+    "BookPublisher": "Bloomsbury",
+    "QuantityInStock": 55
+  },
+  {
+    "Name": "Harry Potter and the Goblet of Fire",
+    "Description": "Harry is unexpectedly entered into the Triwizard Tournament, facing magical challenges and deadly mysteries.",
+    "Price": 22,
+    "PictureUrl": "/images/products/Harry Potter and the Goblet of Fire.jpg",
+    "Type": "Adventure",
+    "BookPublisher": "Bloomsbury",
+    "QuantityInStock": 53
+  },
+  {
+    "Name": "Harry Potter and the Order of the Phoenix",
+    "Description": "Harry battles disbelief and authority at Hogwarts while uncovering more about the dark forces at play.",
+    "Price": 22,
+    "PictureUrl": "/images/products/Harry Potter and the Order of the Phoenix.jpg",
+    "Type": "Drama",
+    "BookPublisher": "Bloomsbury",
+    "QuantityInStock": 52
+  },
+  {
+    "Name": "Harry Potter and the Half-Blood Prince",
+    "Description": "Harry learns more about Voldemort's past while preparing for an inevitable final confrontation.",
+    "Price": 22,
+    "PictureUrl": "/images/products/Harry Potter and the Half-Blood Prince.jpg",
+    "Type": "Mystery",
+    "BookPublisher": "Bloomsbury",
+    "QuantityInStock": 50
+  },
+  {
+    "Name": "Harry Potter and the Deathly Hallows",
+    "Description": "The final battle approaches as Harry, Ron, and Hermione seek to destroy the remaining Horcruxes.",
+    "Price": 22,
+    "PictureUrl": "/images/products/Harry Potter and the Deathly Hallows.jpg",
+    "Type": "Adventure",
+    "BookPublisher": "Bloomsbury",
+    "QuantityInStock": 48
+  }
+]
